@@ -1,0 +1,14 @@
+{
+  "id": "Stan",
+  "name": "Stan",
+  "author": "你的名字",
+  "description": "一个叫斯坦的先古之民",
+  "version": "0.1.0",
+  "min_game_version": "0.107.1",
+  "has_pck": true,
+  "has_dll": true,
+  "dependencies": [
+    { "id": "STS2-RitsuLib" }
+  ],
+  "affects_gameplay": true
+}
